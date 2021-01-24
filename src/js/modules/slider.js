@@ -31,7 +31,6 @@ export default class Slider {
 
         }
 
-
         this.slides.forEach(slide => {
             slide.style.display = 'none';
         });
