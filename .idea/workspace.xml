@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77cd0d53-0b72-4e76-8c4b-5d3762f16f06" name="Default Changelist" comment="" />
+    <list default="true" id="77cd0d53-0b72-4e76-8c4b-5d3762f16f06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/slider/slider-main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/slider/slider-main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/slider/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/slider/slider.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +52,10 @@
       <workItem from="1611504248972" duration="1793000" />
       <workItem from="1611506066624" duration="281000" />
       <workItem from="1611552419249" duration="645000" />
+      <workItem from="1612095821190" duration="1779000" />
+      <workItem from="1612097641155" duration="2222000" />
+      <workItem from="1612099898627" duration="1780000" />
+      <workItem from="1612101714189" duration="188000" />
     </task>
     <servers />
   </component>
